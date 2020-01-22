@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/bin/Release
+/obj
+/src/bin/Release
+/src/obj/Release
+/GameData/RasterPropMonitor-Kerbalism/RasterPropMonitor-Kerbalism.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RasterPropMonitor-Kerbalism", "src\RasterPropMonitor-Kerbalism.csproj", "{F2068153-94EE-4AF4-9C46-8BA1BE1A6A3B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F2068153-94EE-4AF4-9C46-8BA1BE1A6A3B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2068153-94EE-4AF4-9C46-8BA1BE1A6A3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2068153-94EE-4AF4-9C46-8BA1BE1A6A3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2068153-94EE-4AF4-9C46-8BA1BE1A6A3B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D38139F-9A05-4426-B19F-95298830CD5E}
+	EndGlobalSection
+EndGlobal
